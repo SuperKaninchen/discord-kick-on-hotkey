@@ -1,4 +1,4 @@
-# discord-koh
+# discord-kick-on-hotkey
 Kick a specified user when a key combination is detected
 
 ## How to use
